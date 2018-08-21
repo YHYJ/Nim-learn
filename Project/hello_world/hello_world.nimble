@@ -10,3 +10,4 @@ bin           = @["hello_world"]
 # Dependencies
 
 requires "nim >= 0.18.0"
+requires "docopt >= 0.6.0"

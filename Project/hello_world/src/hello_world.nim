@@ -1,2 +1,2 @@
 # Hello Nim!
-echo "Hello, World!"
+echo "Hello, Nim!"
