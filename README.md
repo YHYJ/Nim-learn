@@ -3,6 +3,8 @@ Nim Program Language
 
 ---
 
+---
+
 ## nim
 
 Nim的**编译器**
@@ -13,7 +15,7 @@ nim c -r <project.nim>					# 编译并运行
 nim -d:release c <project.nim>			# 为发布进行优化编译
 ```
 
-
+---
 
 ## nimble
 
@@ -32,5 +34,10 @@ nimble build
 nimble install						# 自动编译并安装在PATH路径 '.nimble/bin' 下
 ```
 
+---
 
+---
 
+## Question
+
+- [ ] 方法的重载
