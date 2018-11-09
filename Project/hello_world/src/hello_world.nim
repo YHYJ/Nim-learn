@@ -1,4 +1,5 @@
-# Hello Nim!
-echo "What's your name? "
-var name = readLine(stdin)
-echo "Your name is ", name, "!"
+var x = 0
+for i in 1 .. 1000_000_000:
+    inc x
+
+echo "Hello World ", x

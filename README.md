@@ -29,7 +29,7 @@ nimble init project_name			# 初始化项目
 nimble search <module_name>			# 搜索指定模块
 nimble install <module_name>		# 安装指定模块
 
-# 自动编译，在 .nimble 文件同路径下执行，是'release build'
+# 自动编译，在 .nimble 文件同路径下执行
 nimble build
 nimble install						# 自动编译并安装在PATH路径 '.nimble/bin' 下
 ```
