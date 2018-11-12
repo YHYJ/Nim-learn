@@ -38,6 +38,3 @@ nimble install						# 自动编译并安装在PATH路径 '.nimble/bin' 下
 
 ---
 
-## Question
-
-- [ ] 方法的重载
