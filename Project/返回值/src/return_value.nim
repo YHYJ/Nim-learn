@@ -1,11 +1,11 @@
 proc p(x, y: int): int {.discardable.} = 
-    return x + y
+  return x + y
 
 p(3, 4)
 
 
 proc tt(x, y: int): int = 
-    discard
+  discard
 
 
 var result: int
